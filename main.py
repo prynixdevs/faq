@@ -31,8 +31,7 @@ st.markdown("""
 st.title("Prynix FAQ")
 
 st.write(
-    "A quick, plain-language FAQ for anyone trying to figure out "
-    "what Prynix actually is and how to get involved."
+    "Frequently Asked Questions about Prynix"
 )
 
 
